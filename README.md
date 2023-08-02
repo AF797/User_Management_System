@@ -9,7 +9,7 @@
 
   ----------
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-for-the-badge&logo=visualstudio&logoColor=white"/>
-
+https://img.shields.io/badge/</img src="React-61DAFB?style=flat&logo=React&logoColor=white"/>
 </p>
 
 - tkinter
