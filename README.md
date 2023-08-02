@@ -36,3 +36,4 @@ pyinstaller --add-binary "path\\PIL;PIL" --add-binary "path\\openpyxl;openpyxl" 
 - 고객이 주문한 날짜도 원하셔서 추가해드렸다. 코드 업데이트는 하지 않을 예정이다.
 
 - 업데이트 구현 영상
+  ![user](https://github.com/AF797/User_Management_System/assets/86837707/f0aea90f-cc90-4de6-b82d-d570474a56ed)
