@@ -5,7 +5,11 @@
 이사님의 요청사항으로 주문자가 첫주문 고객인지 관리할 수 있는 프로그램을 만들었다.
 
 ## 환경
+<p align="center">
 <img src="img/Visual_Studio_Code.png" width="200" height="200"/>
+-------
+
+</p>
 
 - tkinter
 ```
