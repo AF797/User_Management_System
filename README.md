@@ -5,13 +5,13 @@
 
 ## 환경
 <p align="center">
-  <a href="https://code.visualstudio.com/download" target="_blank">
+  <a href="https://code.visualstudio.com/" target="_blank">
     <img src="img/Visual_Studio_Code.png" width="200" height="200"/>
   </a>
 </p>
 <p align="center">
   <a href="https://code.visualstudio.com/download" target="_blank">
-    <img src="https://img.shields.io/badge/Visual Studio Code-3178C6?style=flat-for-the-badge&logo=visualstudio&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visual Studio Code Download-3178C6?style=flat-for-the-badge&logo=visualstudio&logoColor=white"/>
   </a>
 </p>
 
