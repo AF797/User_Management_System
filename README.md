@@ -5,20 +5,23 @@
 이사님의 요청사항으로 주문자가 첫주문 고객인지 관리할 수 있는 프로그램을 만들었다.
 
 ## 환경
-import tkinter, PIL, openpyxl, pyinstaller
+- tkinter
 ```
 pip install tk
 ```
+- PIL
 ```
 pip install Pillow
 ```
+- openpyxl
 ```
 pip install openpyxl
 ```
+- pyinstaller
 ```
 pip install pyinstaller
 ```
-Making EXE file
+- Making EXE file
 ```
 pyinstaller --add-binary "path\\PIL;PIL" --add-binary "path\\openpyxl;openpyxl" -F -w --icon=아이콘명.ico ppap.py
 ```
