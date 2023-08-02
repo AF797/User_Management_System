@@ -5,6 +5,8 @@
 이사님의 요청사항으로 주문자가 첫주문 고객인지 관리할 수 있는 프로그램을 만들었다.
 
 ## 환경
+![Visual_Studio_Code](https://github.com/AF797/User_Management_System/assets/86837707/8346abe7-b837-48e4-b31f-0d5e6d619dde)
+
 - tkinter
 ```
 pip install tk
