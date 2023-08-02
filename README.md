@@ -33,7 +33,7 @@ pip install pyinstaller
 ```
 - Making EXE file
 ```
-pyinstaller --add-binary "path\\PIL;PIL" --add-binary "path\\openpyxl;openpyxl" -F -w --icon=아이콘명.ico ppap.py
+pyinstaller --add-binary "path\\PIL;PIL" --add-binary "path\\openpyxl;openpyxl" -F -w --icon=아이콘명.ico 파일명.py
 ```
 ## 구현 사진
 ![1111](https://github.com/AF797/User_Management_System/assets/86837707/97aefc26-83f8-4020-9a06-8f9253893aff)
