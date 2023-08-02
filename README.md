@@ -7,7 +7,8 @@
 ## 환경
 <p align="center">
 <img src="img/Visual_Studio_Code.png" width="200" height="200"/>
--------
+
+  ----------
 
 </p>
 
