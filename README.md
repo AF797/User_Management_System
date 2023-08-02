@@ -6,10 +6,7 @@
 ## 환경
 <p align="center">
 <img src="img/Visual_Studio_Code.png" width="200" height="200"/>
-</p>
-  ----------
-<p align="center">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-for-the-badge&logo=visualstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual Studio Code-3178C6?style=flat-for-the-badge&logo=visualstudio&logoColor=white"/>
 </p>
 
 - tkinter
