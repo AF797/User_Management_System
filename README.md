@@ -5,7 +5,7 @@
 
 ## 환경
 <p align="center">
-  [<img src="img/Visual_Studio_Code.png" alt="Visual Studio Code" width="200" height="200">](https://marketplace.visualstudio.com/items?itemName=visualstudioexptteam.vscodeintellicode)
+  [![Visual Studio Code](img/Visual_Studio_Code.png)](https://marketplace.visualstudio.com/items?itemName=visualstudioexptteam.vscodeintellicode)
 </p>
 <p align="center">
   [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-3178C6?style=flat-for-the-badge&logo=visualstudio&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=visualstudioexptteam.vscodeintellicode)
